@@ -16,7 +16,7 @@
 
 <br/>
 
-[✨ Features](#-features) · [🏗️ Architecture](#️-architecture) · [🚀 Getting Started](#-getting-started) · [⚙️ Environment Variables](#️-environment-variables) · [📖 How It Works](#-how-it-works) · [🤝 Contributing](#-contributing)
+[✨ Features](#-features) · [🏗️ Architecture](#️-architecture) · [🚀 Getting Started](#-getting-started) · [⚙️ Environment Variables](#️-environment-variables) · [📖 How It Works](#-how-it-works) · [📸 Screenshots](#-screenshots) . [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -271,6 +271,17 @@ The Next.js app handles:
 - **Video call** using `StreamVideoClient` with `SpeakerLayout` and `CallControls`
 - **Closed captions** by subscribing to the `call.closed_caption` WebRTC event
 - **Live transcript rendering** in a side panel with per-speaker avatars and auto-scroll
+
+---
+
+## 📸 Screenshots
+
+<img width="1919" height="825" alt="Screenshot 2026-01-19 205608" src="https://github.com/user-attachments/assets/3262815a-8bd4-40c6-b0e0-4324e90e4367" />
+<img width="1855" height="828" alt="Screenshot 2026-01-19 205623" src="https://github.com/user-attachments/assets/be4a995c-6d86-467f-a82e-ddb85d2ca263" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 205829" src="https://github.com/user-attachments/assets/19ddbd61-f5bb-4371-b914-94741693c5cd" />
+<img width="1919" height="823" alt="Screenshot 2026-01-19 205703" src="https://github.com/user-attachments/assets/8fefbdbd-7a39-43cc-9eb9-eeb73822f657" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 205814" src="https://github.com/user-attachments/assets/af221fe7-d5db-48db-b1f5-983796ad2e27" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 081834" src="https://github.com/user-attachments/assets/c40c874b-08e3-4f1a-a60d-52e181859682" />
 
 ---
 
